@@ -14,6 +14,8 @@ An intelligent e-commerce recommendation engine built with **React** and **Groq 
 - **Model**: Llama-3.3-70b-versatile
 - **Styling**: Modern CSS3 
 
+[View Live Demo](https://drive.google.com/file/d/1l87PROATsD9MPGo0oDc1fPW1cVERmXOE/view?usp=sharing) | [Source Code](https://github.com/Yakshi14/product-recommender)
+
 ## 📁 Project Structure
 ```text
 product-recommender/
@@ -25,5 +27,5 @@ product-recommender/
 ├── package.json       # Project dependencies
 └── README.md          # Documentation
 
-## Output : https://drive.google.com/file/d/1l87PROATsD9MPGo0oDc1fPW1cVERmXOE/view?usp=sharing
+
 
