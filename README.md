@@ -24,3 +24,5 @@ product-recommender/
 ├── public/
 ├── package.json       # Project dependencies
 └── README.md          # Documentation
+
+## Output : https://drive.google.com/file/d/1l87PROATsD9MPGo0oDc1fPW1cVERmXOE/view?usp=sharing
